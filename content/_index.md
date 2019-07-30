@@ -5,9 +5,9 @@ date: 2019-07-28T23:32:34-04:00
 
 <img class="profile-picture" src="irene.jpg">
 
-Irene is a Ph.D. candidate at MIT CSAIL, advised by Professor David Sontag in the Clinical Machine Learning group. Her research focuses on robust machine learning for real-world problems, particularly when focused on healthcare and fairness.
+I'm a Ph.D. candidate at MIT CSAIL, advised by Professor David Sontag in the Clinical Machine Learning group. My research focuses on robust machine learning for real-world problems, particularly when focused on healthcare and fairness.
 
-You can email Irene at iychen [at] mit [dot] edu or reach me on [Twitter](http://www.twitter.com/irenetrampoline).
+You can reach me at iychen [at] mit [dot] edu or on [Twitter](http://www.twitter.com/irenetrampoline).
 
 <br>
 ## Papers
