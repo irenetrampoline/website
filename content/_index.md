@@ -5,7 +5,7 @@ date: 2019-07-28T23:32:34-04:00
 
 <img class="profile-picture" src="irene.jpg">
 
-I'm a Ph.D. candidate at MIT CSAIL, advised by Professor David Sontag in the Clinical Machine Learning group. My research focuses on robust machine learning for real-world problems, particularly when focused on healthcare and fairness.
+I'm a Ph.D. candidate at MIT CSAIL, advised by Professor David Sontag in the Clinical Machine Learning group. My research focuses on robust machine learning for real-world problems, particularly healthcare and fairness.
 
 You can reach me at iychen [at] mit [dot] edu or on [Twitter](http://www.twitter.com/irenetrampoline).
 
