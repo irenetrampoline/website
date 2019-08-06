@@ -10,6 +10,7 @@ I'm a Ph.D. candidate at MIT CSAIL, advised by Professor David Sontag in the Cli
 You can reach me at iychen [at] mit [dot] edu or on [Twitter](http://www.twitter.com/irenetrampoline).
 
 <br>
+
 ## Papers
 
 <script>
@@ -45,6 +46,10 @@ Irene Y. Chen, Fredrik D. Johansson, David Sontag.
 
 **Sources of Unfairness in Intensive Care Unit Mortality Scores.** <br>Irene Y. Chen, Fredrik D. Johansson, David Sontag. <br> *Women in Machine Learning Workshop at NeurIPS 2017.*
 
+<!-- ### Other work
+
+**[We should treat algorithms like prescription drugs.](https://qz.com/1540594/treating-algorithms-like-prescription-drugs-could-reduce-ai-bias/)** Andy Coravos, Irene Chen, Ankit Gordhandas & Ariel Dora Stern. Quartz, February 14, 2019. -->
+<br>
 ## Teaching
 
 At MIT, I served as a Teaching Assistant in Spring 2019 for [Machine Learning for Healthcare](http://mlhc19mit.github.io). Our class was covered by [MIT News](http://news.mit.edu/2019/want-know-what-software-driven-health-care-looks-mit-class-offers-some-clues-0724).
@@ -58,7 +63,7 @@ At Harvard, I was awarded the [Derek Bok Center Certificate of Distinction in Te
  * Linear Algebra and Real Analysis I, Paul Bamberg
  * Linear Algebra and Real Analysis II, Paul Bamberg
 
-
+<br>
 ## Hobbies and interests
 
 In my free time, I enjoy [long distance running](https://twitter.com/irenetrampoline/status/986059482022273024), [reading books](http://irenechen.net/reading-list), and [discussing AI ethics](https://mitaiethics.github.io).

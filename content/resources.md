@@ -28,7 +28,9 @@ If you have suggestions or queries, don't be a stranger.
  
  - [Applications for computer science PhD](http://jxyzabc.blogspot.com/2012/10/faq-applying-to-graduate-school-for.html) -- by Jean Yang (<a href="http://twitter.com/jeanqasaur">@jeanqasaur</a>)
  - [Interviewing for PhD programs](https://twitter.com/ngehlenborg/status/1088193307619049472?s=21) --  by Nils Gehlenborg (<a href="http://twitter.com/ngehlenborg">@ngehlenborg</a>)
+ - [What should grad students be learning?](http://mybiasedcoin.blogspot.com/2008/12/what-should-grad-students-be-learning.html) -- by Michael Mitzenmacher
  - [Expectations for advisors and students](http://matt.might.net/articles/phd-commandments/) -- by John Regehr (<a href="http://twitter.com/johnregehr">@johnregehr</a>), Suresh Venkatasubramanian (<a href="http://twitter.com/geomblog">@geomblog</a>), and Matt Might (<a href="https://twitter.com/mattmight">@mattmight</a>)
  - [Paper writing tips](https://jsteinhardt.wordpress.com/2017/02/28/advice-for-authors/) -- by Jacob Steinhardt
+ - [Responding to peer feedback](http://matt.might.net/articles/peer-review-rebuttals/) -- by Matt Might (<a href="https://twitter.com/mattmight">@mattmight</a>)
  - [Reviewing conference papers](https://colinraffel.com/blog/reviewing-criteria.html) -- by Colin Raffel (<a href="https://twitter.com/colinraffel">@colinraffel</a>)
  
