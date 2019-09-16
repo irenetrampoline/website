@@ -17,7 +17,10 @@ If you have suggestions or queries, don't be a stranger.
  
  - [Women in Machine Learning](https://wimlworkshop.org/)
  - [Black in AI](https://blackinai.github.io/)
-
+ - [Queer in AI](https://sites.google.com/view/queer-in-ai/neurips-2019)
+ - [LatinX in AI](http://www.latinxinai.org/neurips-2019)
+ - [(Dis)Ability in AI](https://elesa.github.io/ability_in_AI/)
+ 
 **Introductory guides**
 
  - [Causal Inference textbook](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) -- by Miguel Hernan and Jamie Robins
@@ -33,4 +36,5 @@ If you have suggestions or queries, don't be a stranger.
  - [Paper writing tips](https://jsteinhardt.wordpress.com/2017/02/28/advice-for-authors/) -- by Jacob Steinhardt
  - [Responding to peer feedback](http://matt.might.net/articles/peer-review-rebuttals/) -- by Matt Might (<a href="https://twitter.com/mattmight">@mattmight</a>)
  - [Reviewing conference papers](https://colinraffel.com/blog/reviewing-criteria.html) -- by Colin Raffel (<a href="https://twitter.com/colinraffel">@colinraffel</a>)
- 
+ - [Academic job search in 10 questions](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub) -- by Elissa Redmiles (<a href="https://twitter.com/eredmil1">@eredmil1</a>) and Nicolas Papernot (<a href="https://twitter.com/NicolasPapernot">@NicolasPapernot</a>)
+ - [Another academic job search guide](https://web.eecs.umich.edu/~weimerw/grad-job-guide/guide/index.html) -- by Westley Weimer

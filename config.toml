@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "pygments"
 
 [params]
-    navigation = ["blog.md", "resources.md", "reading.md"]
+    navigation = ["blog.md", "talks.md", "resources.md", "reading-list.md"]
 
 [permalinks]
     posts = "/:year/:month/:title/"
