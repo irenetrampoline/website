@@ -29,9 +29,9 @@ function absCHF() {
 #### Conferences
 **Robustly Extracting Medical Knowledge from EHRs: A Case Study of Learning a Health Knowledge Graph.** 
 <br>
-Irene Y. Chen, Monica Agrawal, David Sontag. 
+Irene Y. Chen, Monica Agrawal, Steven Horng, David Sontag. 
 <br>
-*In submission.*
+*PSB 2020*, <b><font color="#B03A2E">Oral Presentation</font></b>.
 
 **Why Is My Classifier Discriminatory?** 
 <br>

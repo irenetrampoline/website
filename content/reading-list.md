@@ -34,6 +34,7 @@ Books I've especially loved are marked with an asterik.
 23. [Murder on the Orient Express](https://www.amazon.com/Murder-Orient-Express-Hercule-Mysteries/dp/0062073494/), Agatha Christie*
 24. [Men Without Women](https://www.amazon.com/Men-Without-Women-Haruki-Murakami/dp/0451494628), Haruki Murakami
 25. [The Most Fun We Ever Had](https://www.amazon.com/Most-Fun-We-Ever-Had-ebook/dp/B07H72D3ZX/), Claire Lombardo*
+26. [Chemistry](https://www.amazon.com/dp/B01M0KOP1P/), Weike Wang*
  <!-- [The Corrections](), Jonathan Franzen -->
 
 ### 2018
