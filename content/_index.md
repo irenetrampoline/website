@@ -87,7 +87,7 @@ Andy Coravos, Irene Chen, Ankit Gordhandas, Ariel Dora Stern.
 
 At MIT, I served as a Teaching Assistant in Spring 2019 for [Machine Learning for Healthcare](http://mlhc19mit.github.io). Our class was covered by [MIT News](http://news.mit.edu/2019/want-know-what-software-driven-health-care-looks-mit-class-offers-some-clues-0724).
 
-At Harvard, I was awarded the [Derek Bok Center Certificate of Distinction in Teaching](https://bokcenter.harvard.edu/awards) for outstanding teaching evaluations. I served on the teaching staff of the following Harvard classes:
+At Harvard, I was awarded the [Derek Bok Center Certificate of Distinction in Teaching](https://bokcenter.harvard.edu/teaching-awards) for outstanding teaching evaluations. I served on the teaching staff of the following Harvard classes:
 
  * Algorithms and Data Structures, Jelani Nelson
  * Microeconomic Theory, Ed Glaeser
